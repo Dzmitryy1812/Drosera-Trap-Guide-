@@ -112,9 +112,9 @@ nano drosera.toml
 Modify the following fields:
 
 ```toml
-path = "out/Trap.sol/Trap.json"  //(the path to your smart contract)  
+path = "out/Trap.sol/Trap.json"                   //(the path to your smart contract)  
 response_contract = "0xYourSmartContractAddress"  // (here you need to enter the address of the smart contract that you have depolyed) 
-response_function = "function(string)"  // (the function of your depolyed smart contract) 
+response_function = "function(string)"            // (the function of your depolyed smart contract) 
 ```
 
 ---
@@ -139,6 +139,7 @@ response_function = "function(string)"  // (the function of your depolyed smart 
    ```bash
    DROSERA_PRIVATE_KEY=your_private_key drosera apply
    ```
+![image](https://github.com/user-attachments/assets/94dcfb8e-f3e0-46cb-b853-aac29c524ee9)
 
 Make sure your wallet is funded with Holesky ETH.
 
