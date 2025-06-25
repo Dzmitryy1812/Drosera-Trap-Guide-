@@ -81,9 +81,9 @@ nano drosera.toml
 Modify the following fields:
 
 ```toml
-path = "out/Trap.sol/Trap.json"
-response_contract = "0xYourSmartContractAddress"
-response_function = "function(string)"
+path = "out/Trap.sol/Trap.json"  (the path to your smart contract)  
+response_contract = "0xYourSmartContractAddress"  (here you need to enter the address of the smart contract that you have depolyed) 
+response_function = "function(string)"  (the function of your depolyed smart contract) 
 ```
 
 ---
@@ -116,7 +116,7 @@ When prompted, type `ofc` and press `Enter`.
 
 ### ✅ Done!
 
-Once deployed, your trap will be live on Drosera and connected to your operator. You can now:
+Once deployed, your trap will be live on Drosera and All that remains is to connect to the operator. You can now:
 
 * Share your deployed trap in the Drosera Discord
 * Request the **Sergeant** role after review
