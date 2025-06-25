@@ -42,7 +42,7 @@ mkdir my-drosera-trap && cd my-drosera-trap
 
 # Replace with your GitHub email and username
 git config --global user.email "your@email.com"
-git config --global user.name "YourUsername"
+git config --global user.name "YourUsername_github"
 
 # Initialize with Drosera Foundry template
 forge init -t drosera-network/trap-foundry-template
@@ -83,7 +83,7 @@ Modify the following fields:
 ```toml
 path = "out/Trap.sol/Trap.json"
 response_contract = "0xYourSmartContractAddress"
-response_function = "respondWithDiscordName(string)"
+response_function = "function(string)"
 ```
 
 ---
