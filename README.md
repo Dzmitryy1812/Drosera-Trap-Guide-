@@ -1,6 +1,6 @@
 ## 🪤 Drosera Trap Deployment Guide (Get Sergeant Role)
 
-This guide helps you deploy your own trap in [Drosera](https://www.drosera.io/) to qualify for the **Sergeant** role.
+This guide helps you deploy your own trap in [Drosera](https://www.drosera.io/) to qualify for the **Sergeant** role. If you already have an idea and a smart contract traps. 
 
 ---
 
