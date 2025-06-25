@@ -101,6 +101,7 @@ response_function = "function(string)"  // (the function of your depolyed smart 
    ```bash
    drosera dryrun
    ```
+![image](https://github.com/user-attachments/assets/aa3aab61-c9f7-452f-8200-e1a3da847507)
 
 3. Deploy:
 
