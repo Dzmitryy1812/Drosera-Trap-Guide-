@@ -81,9 +81,9 @@ nano drosera.toml
 Modify the following fields:
 
 ```toml
-path = "out/Trap.sol/Trap.json"  (the path to your smart contract)  
-response_contract = "0xYourSmartContractAddress"  (here you need to enter the address of the smart contract that you have depolyed) 
-response_function = "function(string)"  (the function of your depolyed smart contract) 
+path = "out/Trap.sol/Trap.json"  //(the path to your smart contract)  
+response_contract = "0xYourSmartContractAddress"  // (here you need to enter the address of the smart contract that you have depolyed) 
+response_function = "function(string)"  // (the function of your depolyed smart contract) 
 ```
 
 ---
