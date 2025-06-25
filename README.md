@@ -9,7 +9,6 @@ This guide helps you deploy your own trap in [Drosera](https://www.drosera.io/) 
 * 2 CPU Cores
 * 4 GB RAM
 * 20 GB Disk Space
-* VPS (Recommended: [Get a \$5 VPS](https://www.vultr.com/))
 * [Holesky ETH RPC](https://www.alchemy.com/) via Alchemy or QuickNode
 * Fund wallet with Holesky ETH
 
